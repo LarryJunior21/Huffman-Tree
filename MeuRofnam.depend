@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1556813905 source:j:\meurofnam\main.c
+	"lib.h"
+
+1556813977 j:\meurofnam\lib.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1556808681 source:f:\meurofnam\main.c
+	"lib.h"
+
+1556808847 f:\meurofnam\lib.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
